@@ -1,0 +1,12 @@
+body{
+    background-color: #f5f5f5;
+}
+
+.carousel-img{
+    height: 450px;
+    object-fit: cover;
+}
+
+table{
+    background-color: white;
+}
